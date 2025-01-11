@@ -11,7 +11,7 @@ const Navbar = () => {
                 alt="Logo" 
                 style={navbarStyles.logo} 
             />
-            <h2 style={navbarStyles.title}>Item Manager</h2>
+            <h2 style={navbarStyles.title}>Item List Manager</h2>
         </div>
     );
 };
